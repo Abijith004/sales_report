@@ -21,4 +21,21 @@ With integrated **K-Means customer segmentation**, **anomaly detection**, and **
 ---
 
 ## 📂 Folder Structure
+📦 ai_sales_report
+├── 📁 data                   # Input CSV files
+│   ├── customers.csv
+│   ├── orders.csv
+│   └── products.csv
+│
+├── 📁 reports                # Auto-generated Excel reports
+│   └── sales_report.xlsx     # (generated after script run)
+│
+├── 📁 utils                  # Optional: helper functions (modular code)
+│   ├── __init__.py
+│   └── db_handler.py         # (if needed to load from DB or preprocess)
+│
+├── main.py                   # Main script to run the pipeline
+├── requirements.txt          # Dependencies to install
+└── README.md                 # Project overview and instructions
+
 
