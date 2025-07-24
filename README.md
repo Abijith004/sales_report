@@ -1,6 +1,6 @@
 # 📊 AI-Powered Sales Analysis & Reporting Tool
 
-This project is a **Python-based AI-driven sales reporting system** that automates the entire flow from data ingestion to Excel report generation and visualization.
+This project is a **Python-based AI-driven sales reporting system** that automates the entire flow from data ingestion to Excel report generation and visualization and with postman support.
 
 With integrated **K-Means customer segmentation**, **anomaly detection**, and **interactive Excel output**, it empowers businesses to better understand customer behavior and revenue trends—all in just a few lines of code.
 
